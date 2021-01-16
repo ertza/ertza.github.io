@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ertza"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "About"
 description              : &description ""
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ertza Warraich"
-  avatar           : "profile.png"
+  avatar           : "mangla.jpg"
   bio              : "PhD Computer Science"
-  location         : "Purdue"
+  location         : "Purdue University"
   employer         :
   pubmed           :
   googlescholar    : 
