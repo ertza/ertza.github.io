@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ertza"
+title: "Ertza Warraich"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

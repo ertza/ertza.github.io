@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ertza Warraich"
+title                    : "Ertza"
 title_separator          : "-"
 name                     : &name "About"
 description              : &description ""
