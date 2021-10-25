@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Engg. in Software Engg., NUST University, 2016
+* M.S. in Computer Science, NUST University, 2019
+* Ph.D in Computer Science, Purdue University, 2025 (expected)
 
 Work experience
 ======
