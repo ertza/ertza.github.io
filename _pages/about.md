@@ -16,6 +16,6 @@ My research interests lie broadly in the areas of security and architectures, wi
 
 Publications
 ======
-- (Poster) **Constructing the face of network data** 
- Ertza Warraich, and Muhammad Shahbaz 
- Proceedings of the SIGCOMM'21 Poster and Demo Sessions, 2021.
+- **Constructing the face of network data** (Poster) <br> 
+ *Ertza Warraich*, and Muhammad Shahbaz <br> 
+ Proceedings of the SIGCOMM'21 Poster and Demo Sessions
