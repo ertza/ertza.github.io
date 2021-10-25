@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ertza"
+title                    : "Ertza Warraich"
 title_separator          : "-"
 name                     : &name "Ertza Warraich"
 description              : &description "PhD Researcher"
@@ -83,7 +83,7 @@ author:
   name             : "Ertza Warraich"
   avatar           : "profile.png"
   bio              : "PhD Researcher"
-  location         : "Purdue"
+  location         : "Purdue University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LVq8uUkAAAAJ"
