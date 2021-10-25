@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my personal page"
+title                    : "Welcome to my personal page!"
 title_separator          : "-"
 name                     : &name "Ertza Warraich"
 description              : &description "PhD Researcher"
