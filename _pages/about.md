@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently a Ph.D. student in the Department of Computer Science at Purdue University. Working as a researcher in [PurNET](https://purnet-lab.gitlab.io) and [NextGArch](https://nextgarch.gitlab.io) Labs, under the supervision of [Asst. Prof. Muhammad Shahbaz](https://mshahbaz.gitlab.io). Previously, I have worked in the industry as a Malware Researcher, and then as Manager Cyber-Security for ~4 years. 
+Ph.D. student in the Department of Computer Science at Purdue University. 
+Working as a researcher in [PurNET](https://purnet-lab.gitlab.io) and [NextGArch](https://nextgarch.gitlab.io) Labs, under the supervision of [Asst. Prof. Muhammad Shahbaz](https://mshahbaz.gitlab.io). 
+Before joining Purdue, I did my M.S. & B.Engg from NUST, Pakistan. 
+I have also worked in the industry ~4 years, starting off as a Malware Researcher, and then as Manager Cyber-Security. 
 
 Research Interests
 ======
