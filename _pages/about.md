@@ -18,4 +18,4 @@ Publications
 ======
 - **Constructing the face of network data** (Poster) <br> 
  *Ertza Warraich*, and Muhammad Shahbaz <br> 
- Proceedings of the SIGCOMM'21 Poster and Demo Sessions
+ Proceedings of the SIGCOMM'21 Poster and Demo Sessions [Paper](https://dl.acm.org/doi/10.1145/3472716.3472852)
