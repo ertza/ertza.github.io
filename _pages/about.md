@@ -16,7 +16,19 @@ My research interests lie broadly in the areas of security and architectures, wi
 
 Publications
 ======
-- **Constructing the face of network data** (Poster) <br> 
- *Ertza Warraich*, and Muhammad Shahbaz <br> 
- Proceedings of the SIGCOMM'21 Poster and Demo Sessions <br> 
+- **Hybrid Stateful Fuzzing of USB Gadget Stacks** <br>
+  Kyungtae Kim, Taegyu Kim, *Ertza Warraich*, Byoungyoung Lee, Kevin Butler, Antonio Bianchi, Dave Tian <br>
+  In Proceedings of the 43rd IEEE Symposium on Security and Privacy [(IEEE S&P 2022)](https://www.ieee-security.org/TC/SP2022). <br>
+  San Francisco, May 2022 <br>
+  [TBD]
+
+- **Constructing the Face of Network Data** (Poster) <br> 
+ *Ertza Warraich*, Muhammad Shahbaz <br> 
+ In Proceedings of the 35th ACM SIGCOMM Poster and Demo Sessions [(SIGCOMM 2021)](https://conferences.sigcomm.org/sigcomm/2021). <br> 
+ Virtual Online, August 2021 <br>
  \[[link](https://dl.acm.org/doi/10.1145/3472716.3472852)\]
+ 
+ - Constructing the Face of Network Data (Poster)
+Ertza Warraich, Muhammad Shahbaz
+In Proceedings of the 35th SIGCOMM Poster and Demo Sessions (SIGCOMM 2021).
+Virtual Online, August 2021
