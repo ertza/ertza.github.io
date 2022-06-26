@@ -19,7 +19,7 @@ Publications
 - **Ultima: Robust and Tail-Optimal All-Reduce for Distributed Deep Learning** (Poster) <br>
   *Ertza Warraich*, Leonard Liu, Omer Shabtai, Yonatan Piasetzky, Shay Vargaftik, Matty Kadosh, Lalith Suresh, Muhammad Shahbaz <br>
   In Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation Poster Sessions [(OSDI 2022)](https://www.usenix.org/conference/osdi22). <br>
-  Carlsbad, CA. July 2022
+  Carlsbad, CA. July 2022 <br>
   [TBD]
 
 - **FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks** <br>
