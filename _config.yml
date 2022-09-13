@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "0xDECAFBAD"
-title_separator          : "-"
+title_separator          : "--"
 name                     : &name "Ertza Warraich"
 description              : &description "PhD Researcher"
 url                      : https://ertza.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
