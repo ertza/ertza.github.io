@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the Department of Computer Science at Purdue University. 
-Working as a researcher in [PurNET](https://purnet-lab.gitlab.io) and [NextGArch](https://nextgarch.gitlab.io) labs, under the supervision of [Asst. Prof. Muhammad Shahbaz](https://mshahbaz.gitlab.io).
-Before joining Purdue, I did my M.S. & B.Engg from NUST, Pakistan, after which I joined the industry ~4 years, working as a Malware Researcher, and then as Assistant Manager Cyber-Security. 
+Ph.D. student in the Dept of Computer Science at Purdue University. 
+Working as a researcher in [PurNET](https://purnet-lab.gitlab.io) and [NextGArch](https://nextgarch.gitlab.io) labs, under the supervision of [Prof. Muhammad Shahbaz](https://mshahbaz.gitlab.io).
 
-My research interests lie broadly in the areas of security and architectures, with a focus on Systems, Networks, and AI. Currently, I am developing NextGen architectural frameworks for distributed AI systems. 
+I did my B.Engg & M.S. from NUST, Pakistan, fter which I joined the industry ~4 years; starting off as a Malware Researcher, and finally working at the post of Assistant Manager before leaving for Purdue. 
+
+My research interests lie broadly in the areas of systems and architectures, with a focus on Security, Networks, and AI. 
+Currently, I am developing NextGen architectural frameworks for distributed and large-scale AI systems. 
 
 Publications
 ======
