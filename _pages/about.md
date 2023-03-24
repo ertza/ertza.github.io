@@ -22,17 +22,17 @@ Publications
   *Ertza Warraich*, Leonard Liu, Omer Shabtai, Yonatan Piasetzky, Shay Vargaftik, Matty Kadosh, Lalith Suresh, Muhammad Shahbaz <br>
   In Proceedings of the 16th USENIX Symposium on Operating Systems Design and Implementation Poster Sessions [(OSDI 2022)](https://www.usenix.org/conference/osdi22). <br>
   Carlsbad, CA. July 2022 <br>
-  [TBD]
+  \[[link](https://github.com/ertza/pubs/blob/main/ultima-poster/ultima-abstract.pdf)\]
 
 - **FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks** <br>
   Kyungtae Kim, Taegyu Kim, *Ertza Warraich*, Byoungyoung Lee, Kevin Butler, Antonio Bianchi, Dave (Jing) Tian <br>
   In Proceedings of the 43rd IEEE Symposium on Security and Privacy [(IEEE S&P 2022)](https://www.ieee-security.org/TC/SP2022). <br>
   San Francisco, CA. May 2022 <br>
-  \[[link](https://compsec.snu.ac.kr/papers/kyungtae-fuzzusb.pdf)\]
+  \[[link](https://github.com/ertza/pubs/blob/main/fuzzusb/fuzzusb.pdf)\]
 
 - **Constructing the Face of Network Data** (Poster) <br> 
  *Ertza Warraich*, Muhammad Shahbaz <br> 
  In Proceedings of the 35th ACM SIGCOMM Poster and Demo Sessions [(SIGCOMM 2021)](https://conferences.sigcomm.org/sigcomm/2021). <br> 
  Virtual Online, August 2021 <br>
- \[[link](https://dl.acm.org/doi/10.1145/3472716.3472852)\]
+ \[[link](https://github.com/ertza/pubs/blob/main/network-face-poster/network-face-abstract.pdf)\]
 
