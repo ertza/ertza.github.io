@@ -100,7 +100,8 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://github.com/ertza/bio/blob/main/Ertza_Resume.pdf"
   lastfm           :
   linkedin         : "ertza"
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : "https://github.com/ertza/bio/blob/main/Ertza_Resume.pdf"
 
 
 # Reading Files
