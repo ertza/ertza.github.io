@@ -30,6 +30,7 @@
       {% endif %}
       {% if author.CV %}
         <li><a href="{{ author.CV }}"><i class="ai ai-impactstory ai-fw"></i> CV</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
