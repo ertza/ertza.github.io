@@ -84,6 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Researcher"
   location         : "Purdue University"
+  CV               : "https://github.com/ertza/bio/blob/main/Ertza_Resume.pdf"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LVq8uUkAAAAJ"
@@ -101,7 +102,6 @@ author:
   keybase          :
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  impactstory      : "https://github.com/ertza/bio/blob/main/Ertza_Resume.pdf"
   lastfm           :
   linkedin         : "ertza"
   orcid            : #"http://orcid.org/yourorcidurl"
