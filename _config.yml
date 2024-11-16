@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Researcher"
   location         : "Purdue University"
-  CV               : "https://github.com/ertza/bio/blob/main/Ertza_Resume.pdf"
+  CV               : "https://raw.githubusercontent.com/ertza/bio/main/Ertza_Resume.pdf"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LVq8uUkAAAAJ"
